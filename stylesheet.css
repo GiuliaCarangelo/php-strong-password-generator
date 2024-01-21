@@ -1,0 +1,17 @@
+body{
+    background-color: #001632;
+    width: 100vw;
+    height: 100vh;
+}
+
+h1{
+    color: #808b9a;
+}
+
+.validation-container{
+    background-color: #cff4fc;
+}
+
+.my_main_container{
+    background-color: #f8f9fa;
+}
